@@ -1,0 +1,39 @@
+<?xml version = "1.0"?>  
+<?xml-stylesheet type = "text/xsl" href = "emp4.xsl"?>   
+<class>   
+   <employee id = "111">  
+      <firstname>Shree</firstname>   
+      <lastname>Rao</lastname>   
+      <middlename>Vatsa</middlename>   
+      <fathername>Subramanya</fathername>  
+       <dob>18-09-1997</dob>
+       <city>Banglore</city>
+       <state>Karnataka</state>
+       <qualification>MCA</qualification>
+       <salary>45000</salary>
+   </employee>   
+   <employee id = "136">   
+      <firstname>sukesh</firstname>   
+      <lastname>r</lastname>   
+      <middlename>Devadiga</middlename>   
+      <fathername>Raghu</fathername>  
+       <dob>05-01-2000</dob>
+       <city>Udupi</city>
+       <state>Karnataka</state>
+       <qualification>Mcom</qualification>
+       <salary>65000</salary>
+   </employee>   
+   <employee id = "548">   
+      <firstname>Natasha</firstname>   
+      <lastname>G</lastname>   
+      <middlename>Shetty</middlename>   
+      <fathername>Janna</fathername>  
+       <dob>13-11-1989</dob>
+       <city>Manglore</city>
+       <state>Karnataka</state>
+       <qualification>MSC</qualification>
+       <salary>201000</salary>
+   </employee>
+   
+     
+</class>  
